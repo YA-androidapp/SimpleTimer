@@ -6,11 +6,6 @@ SimpleTimer
 
 timer app (reading voice)
 
-## Install
----
-
-Download the APK package from [github](https://github.com/YA-androidapp/SimpleTimer/blob/master/bin/SimpleTimer.apk?raw=true)
-
 ## Licence
 ---
 
