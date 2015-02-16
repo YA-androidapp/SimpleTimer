@@ -10,7 +10,7 @@
 
 # Generated files
 bin/*
-!bin/ApkInstaller.apk
+!bin/SimpleTimer.apk
 gen/
 
 # Gradle files
