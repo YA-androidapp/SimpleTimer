@@ -1,0 +1,16 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <RingtonePreference
+        android:key="alarm_uri"
+        android:ringtoneType="alarm"
+        android:showDefault="true"
+        android:showSilent="true"
+        android:title="@string/ringtonepref_title" />
+
+    <EditTextPreference
+        android:defaultValue="@string/default_time"
+        android:dialogTitle="@string/default_time_title"
+        android:key="default_time"
+        android:title="@string/default_time_title" />
+
+</PreferenceScreen> <!-- Copyright (c) 2013-2015 YA <ya.androidapp@gmail.com> All rights reserved. -->

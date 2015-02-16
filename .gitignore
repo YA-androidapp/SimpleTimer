@@ -9,7 +9,8 @@
 *.class
 
 # Generated files
-bin/
+bin/*
+!bin/ApkInstaller.apk
 gen/
 
 # Gradle files
