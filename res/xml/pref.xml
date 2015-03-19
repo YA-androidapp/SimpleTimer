@@ -11,6 +11,13 @@
         android:defaultValue="@string/default_time"
         android:dialogTitle="@string/default_time_title"
         android:key="default_time"
+        android:summary="@string/default_time_summary"
         android:title="@string/default_time_title" />
+    <EditTextPreference
+        android:defaultValue="@string/speech_second"
+        android:dialogTitle="@string/speech_second_title"
+        android:key="speech_second"
+        android:summary="@string/speech_second_summary"
+        android:title="@string/speech_second_title" />
 
 </PreferenceScreen> <!-- Copyright (c) 2013-2015 YA <ya.androidapp@gmail.com> All rights reserved. -->

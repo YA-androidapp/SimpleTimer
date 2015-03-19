@@ -1,4 +1,4 @@
-package jp.gr.java_conf.ya.simpletimer; // Copyright (c) 2013-2015 YA <ya.androidapp@gmail.com> All rights reserved.
+package jp.gr.java_conf.ya.simpletimer; // Copyright (c) 2013-2015 YA <ya.androidapp@gmail.co
 
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.OnSharedPreferenceChangeListener;
